@@ -76,4 +76,4 @@ The dump truck icon was drawn by hand in Adobe Illustrator — pink cab, taupe c
 
 # Questions or corrections
 
-I reached out to the Department of Sanitation to verify the data. If you spot an error, please please get in touch.
+I reached out to the Department of Sanitation to verify the data before I handed in this project. The department has responded reoughly two weeks after I submitted the project as a learning practice. I am going to create a project_salty_winter_v2 to relfect some changes based on the feedback from the department. 
